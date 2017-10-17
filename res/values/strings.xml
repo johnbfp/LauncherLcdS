@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DesignMode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="success">Success</string>
+	<string name="fail">Fail</string>
+	
+	<string name="full_black">Black</string>
+	<string name="full_white">White</string>
+</resources>
